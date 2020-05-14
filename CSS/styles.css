@@ -1,0 +1,30 @@
+body {
+    background-color: #EAF6F6;
+    text-align: center;
+    list-style-position: inside;
+
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: gray;
+    width: 15%;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+table {
+    display: inline;
+}
+
+hr.padding {
+    margin: ;
+}
